@@ -1,0 +1,17 @@
+{
+  "name": "void-launcher-bot",
+  "version": "1.0.0",
+  "description": "Telegram-бот Void Launcher: проверка подписки и выдача лаунчера",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "session": "node gen-session.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0",
+    "telegram": "^2.26.22"
+  }
+}
