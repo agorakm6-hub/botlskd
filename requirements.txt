@@ -1,2 +1,4 @@
 telethon
 aiohttp
+matplotlib
+tzdata
