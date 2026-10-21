@@ -2,3 +2,4 @@ telethon
 aiohttp
 matplotlib
 tzdata
+cryptography>=41.0.0
